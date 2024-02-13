@@ -1,12 +1,12 @@
 {
   "homepage": "https://sibivishtan.github.io",
-  "name": "v4-main",
+  "name": "sibivishtan.github.io",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Sibi Vishtan Thirukonda <thirukonda.s@northeastern.edu>",
+  "author": "Sibi Vishtan <sibivishtantt@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/urstrulyvishtan/v4-main"
+    "url": "https://github.com/sibivishtan/sibivishtan.github.io"
   },
   "keywords": [
     "gatsby"
